@@ -1,0 +1,20 @@
+{
+    "message": {
+        "user": {
+            "id": "STRING",
+            "nickname": "STRING",
+            "title": "STRING",
+            "accountType": "STRING",
+            "countryCode": "STRING",
+            "orientation": "STRING"
+        },
+        "time": "INTEGER",
+        "acl": [],
+        "publicFeed": "INTEGER",
+        "internationalCountries": "ENUM",
+        "topTraderFeed": "INTEGER",
+        "tag": "STRING",
+        "description": "STRING",
+        "required": "INTEGER"
+    }
+}
